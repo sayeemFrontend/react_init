@@ -17,4 +17,4 @@ npm run dev
 
 ```
 
-## open browser localhost:5173 (default or your PORT)
+### open browser localhost:5173 (default or your PORT)
